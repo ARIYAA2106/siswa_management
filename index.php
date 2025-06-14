@@ -42,7 +42,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             min-height: 100vh;
             display: flex;
             align-items: center;
-        }
+        }   
         .login-container {
             max-width: 400px;
             width: 100%;
